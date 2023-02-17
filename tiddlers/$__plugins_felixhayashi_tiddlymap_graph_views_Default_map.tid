@@ -1,0 +1,13 @@
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default/map
+type: text/vnd.tiddlywiki
+
+{
+ "cc201594-ac31-4d96-81c5-2b33466310c9": {
+  "x": 0,
+  "y": 0
+ },
+ "02e5ace7-fbad-4877-9b2f-462d345efe66": {
+  "x": 100,
+  "y": 100
+ }
+}
